@@ -16,7 +16,7 @@ AI Quest 25 was a multidisciplinary AI challenge featuring various quests, inclu
    - Technical report detailing the multimodal AI system, including malicious QR-code detection, URL analysis, fraud detection, and simulation for fraud prevention.  
 
 2. **Genetic Algorithm for Hyperparameter Tuning**:  
-   - Technical report explaining the methodology and results of crearting a hyperparameter tuning algorithm using Genetic Algorithms.  
+   - Technical report explaining the methodology and results of creating a hyperparameter tuning algorithm using Genetic Algorithms.  
 
 ## Highlights of the Main Quest  
 Our multimodal AI solution includes:  
@@ -25,5 +25,14 @@ Our multimodal AI solution includes:
 - **Fraud Detection**: Machine Learning-based fraud detection in a custom-engineered dataset.  
 - **Fraud Prevention Simulation**: Reinforcement Learning-powered environment for transaction simulation.  
 
+## Solution Framework  
+Below is a visual representation of the overall solution architecture used in the main quest:  
+
+![Solution Framework](pics/framework.png)  
+
 ## Contribution  
 Feel free to explore the reports and suggest improvements or discuss ideas related to the competition.  
+
+---
+
+Let me know if you need additional changes! 😊
