@@ -32,7 +32,3 @@ Below is a visual representation of the overall solution architecture used in th
 
 ## Contribution  
 Feel free to explore the reports and suggest improvements or discuss ideas related to the competition.  
-
----
-
-Let me know if you need additional changes! 😊
